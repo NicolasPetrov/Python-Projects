@@ -27,6 +27,8 @@ A **production-ready ML application** for real estate price prediction using **X
 
 <a href="https://github.com/NicolasPetrov/Housing-Price-Predictor"><kbd>Learn more →</kbd></a>
 
+---
+
 ## 2) GifAnimalBot
 <img width="716" height="733" alt="416006986-841a89f5-cbcc-495f-a8d8-2b30b05a368c-2" src="https://github.com/user-attachments/assets/90650fc2-8721-41b7-bd08-fccb5480cac0" />
 
